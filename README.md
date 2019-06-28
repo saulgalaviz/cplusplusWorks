@@ -1,5 +1,5 @@
 Concepts: C++ Programming
 
-Tools: MySQL Workbench
+Tools: Visual Studio Code
 
-Languages: SQL, NoSQL, MySQL
+Languages: C++
