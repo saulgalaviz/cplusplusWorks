@@ -1,5 +1,5 @@
 Concepts: C++ Programming
 
-Tools: NetBeans
+Tools: MySQL Workbench
 
-Languages: C++
+Languages: SQL, NoSQL, MySQL
